@@ -2,7 +2,7 @@ public class Goat { //b2 1
 //b2 2
 //b2 3
     //-----------------------------------Свойства класса--------------------------------------------
-
+//b2 4
     private Yard _yard;
     private int goatEnergy;
     private Cell _cell;
