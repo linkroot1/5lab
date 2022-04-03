@@ -9,7 +9,7 @@ public class Goat { //b2 1
     private Direction _direction;
     private Box _box;
 
-
+//b2 5
 
     //---------------------------------Конструктор класса-------------------------------------------
 
