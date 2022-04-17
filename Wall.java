@@ -1,6 +1,6 @@
 public class Wall {
 //first commit in Branch3
-
+//second commit Branch3
     //--------------------------------------Свойства класса---------------------------------------------
 
     private Direction _direction;
