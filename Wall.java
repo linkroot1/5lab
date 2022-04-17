@@ -2,7 +2,7 @@ public class Wall {
 //first commit in Branch3
 //second commit Branch3
     //--------------------------------------Свойства класса---------------------------------------------
-
+//3 commit Branch3
     private Direction _direction;
     private Cell _cell;
 
